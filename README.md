@@ -1,6 +1,6 @@
 
 # Hello
-My name is Mariam Yasser and I'm a software/DevOps engineer. I'm from Egypt. You can find me on 
+My name is Mariam Yasser and I'm a software/DevOps engineer. Currently enrolled in the ALX Software Engineering program, eager to apply my technical background in networking and telecommunications to drive innovation in IT operations. Seeking opportunities to collaborate and contribute to dynamic projects in the field of DevOps
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
@@ -11,9 +11,6 @@ My name is Mariam Yasser and I'm a software/DevOps engineer. I'm from Egypt. You
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
 
-
-
-## &#x1f4c8; GitHub Stats
 
 
 
