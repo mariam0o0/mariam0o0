@@ -6,7 +6,7 @@ enhance scalability. Proficient in continuous integration and development pipeli
 leveraging networking principles to optimize application performance and collaborating with cross-functional teams to deliver high-quality
 solutions. Currently enrolled in the ALX Software Engineering program, eager to apply my technical background in networking to drive innovation in IT operations. Seeking opportunities to collaborate and contribute to dynamic projects in the field of DevOps
 
-### 🛠️
+
 <p>
   <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" title="Kubernetes" alt="Kubernetes" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" title="Docker" alt="Docker" width="40" height="40"/>
