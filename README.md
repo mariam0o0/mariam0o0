@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Mariam Yasser Mohamed
+# 👋 Hi there, I'm Mariam
 
 🎯 A passionate **DevOps Engineer** in training, eager to build scalable, automated, and secure infrastructure.
 
