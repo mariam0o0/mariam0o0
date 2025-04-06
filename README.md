@@ -1,15 +1,46 @@
-## Hi there, nice to meet you! 👋
+# 👋 Hi there, I'm Mariam Yasser Mohamed
+
+🎯 A passionate **DevOps Engineer** in training.
+
+---
+
+## 🚀 About Me
+
+- 🎓 ITI 9-Month Program Trainee – **System Administration Track**
+- 🛠️ Currently diving deep into **Linux, Docker, Kubernetes, Ansible**, and **CI/CD pipelines**
+- 💡 Always curious to learn new technologies and tools that improve productivity
+
+---
+
+## 🧰 Tech Stack
+
+- **Languages:** Bash, Python, YAML
+- **Tools:** Docker, Kubernetes, Ansible, Git
+- **Operating Systems:** Linux (Ubuntu, CentOS), Windows Server
+- **Cloud & Virtualization:** AWS (in progress), VMware, VirtualBox
+- **Monitoring:** Prometheus, Grafana (learning)
+
+---
+
+## 📚 Currently Learning
+
+- 🧠 **AWS Cloud Practitioner**
+- 🐳 Advanced **Docker & Kubernetes**
+
+---
+
+## 📈 GitHub Stats
+
+![Mariam's GitHub stats](https://github-readme-stats.vercel.app/api?username=mariamyasser&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariamyasser&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Get in Touch
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/mariamyassermohamed)
+- ✉️ Email: mariam.yasser@example.com *(replace with your real one)*
 
 
-<p>
-  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" title="Kubernetes" alt="Kubernetes" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" title="Docker" alt="Docker" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" title="Ansible" alt="Ansible" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" title="Go" alt="Go" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" title="Python" alt="Python" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" title="Jenkins" alt="Jenkins" width="40" height="40"/>
-  <img src="https://github.githubassets.com/images/modules/site/features/actions-icon-actions.svg" title="GitHub Actions" alt="GitHub Actions" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" title="Bash" alt="Bash" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" title="Linux" alt="Linux" width="40" height="40"/>
-<p/>
+
 
