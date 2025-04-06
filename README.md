@@ -41,7 +41,7 @@
 
 ## 📫 Get in Touch
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/mariamyassermohamed)
+- 💼 [LinkedIn](https://www.linkedin.com/in/mariamy-yasser)
 - ✉️ Email: mariam.yasser@example.com *(replace with your real one)*
 
 
