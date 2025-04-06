@@ -31,8 +31,8 @@
 
 ## 📈 GitHub Stats
 
-![Mariam's GitHub stats](https://github-readme-stats.vercel.app/api?username=mariamyasser&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariamyasser&layout=compact&theme=tokyonight)
+![Mariam's GitHub stats](https://github-readme-stats.vercel.app/api?username=mariam0o0&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariam0o0&layout=compact&theme=tokyonight)
 
 ---
 
