@@ -53,9 +53,6 @@
 
 ## 📫 Let’s Connect!
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/mariamyasser)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/mariamy-yasser)  
 - 📧 **Email:** `mariam.yasser772000@gmail.com`*
 
----
-
-> _"Continuous improvement is better than delayed perfection."_ — Mark Twain
