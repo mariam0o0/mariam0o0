@@ -1,31 +1,42 @@
-# 👋 Hi there, I'm Mariam Yasser Mohamed
+# 👋 Hello! I'm Mariam Yasser Mohamed
 
-🎯 A passionate **DevOps Engineer** in training.
+🎯 Aspiring **DevOps Engineer** with a passion for automation, system reliability, and continuous learning.
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 ITI 9-Month Program Trainee – **System Administration Track**
-- 🛠️ Currently diving deep into **Linux, Docker, Kubernetes, Ansible**, and **CI/CD pipelines**
-- 💡 Always curious to learn new technologies and tools that improve productivity
+- 🎓 Trainee at ITI – **System Administration Track (9-Month Program)**
+- 🔧 Currently building hands-on experience with **Linux**, **Docker**, **Kubernetes**, **Ansible**, and **CI/CD pipelines**
+- 🌍 Dreaming big: I aim to contribute to impactful projects and work with global DevOps teams
+- 💡 I love exploring tools that make infrastructure scalable, reliable, and elegant
 
 ---
 
 ## 🧰 Tech Stack
 
-- **Languages:** Bash, Python, YAML  
-- **Tools:** Docker, Kubernetes, Ansible, Git  
-- **Operating Systems:** Linux (Ubuntu, CentOS), Windows Server  
-- **Cloud & Virtualization:** AWS (in progress), VMware, VirtualBox  
-- **Monitoring:** Prometheus, Grafana (learning)
+**Languages:**  
+`Bash` • `Python` • `YAML`
+
+**Tools & Platforms:**  
+`Docker` • `Kubernetes` • `Ansible` • `Git`
+
+**Operating Systems:**  
+`Linux (Ubuntu, CentOS)` • `Windows Server`
+
+**Cloud & Virtualization:**  
+`AWS (in progress)` • `VMware` • `VirtualBox`
+
+**Monitoring & Observability:**  
+`Prometheus` • `Grafana` *(learning)*
 
 ---
 
 ## 📚 Currently Learning
 
-- 🧠 **AWS Cloud Practitioner**  
+- 🧠 **AWS Cloud Practitioner Certification**
 - 🐳 Advanced **Docker & Kubernetes**
+- 🔐 Security and best practices in DevOps workflows
 
 ---
 
@@ -33,17 +44,18 @@
 
 <table>
   <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=mariam0o0&show_icons=true&theme=tokyonight" alt="Mariam's GitHub Stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariam0o0&layout=compact&theme=tokyonight" alt="Top Languages" />
-    </td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=mariam0o0&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Mariam's GitHub Stats" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariam0o0&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" /></td>
   </tr>
 </table>
 
 ---
 
-## 📫 Get in Touch
- 
+## 📫 Let’s Connect!
 
+- 💼 [LinkedIn](https://www.linkedin.com/in/mariamyasser)  
+- 📧 **Email:** `mariam.yasser772000@gmail.com`*
+
+---
+
+> _"Continuous improvement is better than delayed perfection."_ — Mark Twain
