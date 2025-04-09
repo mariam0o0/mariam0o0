@@ -36,7 +36,6 @@
 
 - 🧠 **AWS Cloud Practitioner Certification**
 - 🐳 Advanced **Docker & Kubernetes**
-- 🔐 Security and best practices in DevOps workflows
 
 ---
 
