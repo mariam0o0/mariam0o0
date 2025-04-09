@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Mariam
+# 👋 Hi there, I'm Mariam Yasser Mohamed
 
 🎯 A passionate **DevOps Engineer** in training, eager to build scalable, automated, and secure infrastructure.
 
@@ -10,6 +10,7 @@
 - 🛠️ Currently diving deep into **Linux, Docker, Kubernetes, Ansible**, and **CI/CD pipelines**
 - ☁️ Gaining hands-on experience with **cloud services** and **monitoring tools**
 - 💡 Curious, detail-oriented, and constantly exploring ways to improve team workflows
+- ✈️ Future goal: Join an international DevOps team and contribute to impactful tech solutions
 
 ---
 
@@ -19,6 +20,7 @@
 - **Tools:** Docker, Kubernetes, Ansible, Git
 - **Operating Systems:** Linux (Ubuntu, CentOS), Windows Server
 - **Cloud & Virtualization:** AWS (in progress), VMware, VirtualBox
+- **Monitoring & Logging:** Prometheus, Grafana (learning), basic ELK stack
 
 ---
 
@@ -26,6 +28,7 @@
 
 - 🧠 **AWS Cloud Practitioner Certification**
 - 🐳 Advanced **Docker & Kubernetes** concepts
+- 🔐 Security practices for managing DevOps environments
 
 ---
 
@@ -41,8 +44,10 @@
 
 ## 📫 Get in Touch
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/mariamy-yasser)
+- 💼 [LinkedIn](https://www.linkedin.com/in/mariamyassermohamed)
 - ✉️ Email: mariam.yasser@example.com *(replace with your real one)*
 
+---
 
+> "DevOps is not a goal, but a never-ending process of continual improvement."
 
