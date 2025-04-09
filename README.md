@@ -45,10 +45,5 @@
 ---
 
 ## 📫 Get in Touch
+ 
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/mariamyassermohamed)  
-- ✉️ Email: mariam.yasser@example.com *(replace with your real one)*
-
----
-
-> “Continuous learning is the key to mastering DevOps.”
