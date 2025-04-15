@@ -8,7 +8,6 @@
 
 - 🎓 Trainee at ITI – **System Administration Track (9-Month Program)**
 - 🔧 Currently building hands-on experience with **Linux**, **Docker**, **Kubernetes**, **Ansible**, and **CI/CD pipelines**
-- 🌍 Dreaming big: I aim to contribute to impactful projects and work with global DevOps teams
 - 💡 I love exploring tools that make infrastructure scalable, reliable, and elegant
 
 ---
