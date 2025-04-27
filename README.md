@@ -1,6 +1,6 @@
 # 👋 Hello! I'm Mariam Yasser Mohamed
 
-🎯 Aspiring **DevOps Engineer** with a passion for automation, system reliability, and continuous learning.
+🎯 Aspiring **DevOps Engineer**
 
 ---
 
