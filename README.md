@@ -5,6 +5,7 @@
 
 ## 🚀 About Me
 
+- 💼 Business Solutions Support Engineer @ Vodafone Egypt
 - 🎓 Trainee at ITI – **System Administration Track (9-Month Program)**
 - 🔧 Currently building hands-on experience with **Linux**, **Docker**, **Kubernetes**, **Ansible**, and **CI/CD pipelines**
 - 💡 I love exploring tools that make infrastructure scalable, reliable, and elegant
