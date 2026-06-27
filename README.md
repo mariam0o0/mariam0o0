@@ -1,6 +1,5 @@
 # 👋 Hello! I'm Mariam Yasser Mohamed
 
-🎯 Aspiring **DevOps Engineer**
 
 ---
 
